@@ -90,7 +90,6 @@ dotnet test
 Includes:
 
 ✅ Unit tests for services/handlers
-
 🔁 Integration tests for DB and API endpoints
 
 📦 BlockCypher API Sources
