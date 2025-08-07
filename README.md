@@ -41,7 +41,7 @@ ICMarketsSolution/
 
 ## 🔄 Example API Response
 
-### ✅ POST `/api/Blockchain/fetch`
+### ✅ POST `/api/Blockchain/fetch
 
 ```json
 {
